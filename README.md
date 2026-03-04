@@ -23,3 +23,11 @@ Je me suis particulièrement concentré sur :
 ## 4. Galerie
 
 ![Menu Principal](assets/menu.png)
+
+![Sélection Niveaux](assets/selec_lvl.png)
+
+![Menu Statistiques](assets/stats.png)
+
+![Exemple Niveau 1](assets/lvl1.png)
+
+![Exemple Niveau 2](assets/lvl2.png)
