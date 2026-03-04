@@ -22,16 +22,16 @@ Je me suis particulièrement concentré sur :
 
 ## 4. Galerie
 
-Menu Principal
+**Menu Principal**
 ![Menu Principal](assets/menu.png)
 
-Menu de sélection de niveaux
+**Menu de sélection de niveaux**
 ![Sélection Niveaux](assets/selec_lvl.png)
 
-Menu de statistiques
+**Menu de statistiques**
 ![Menu Statistiques](assets/stats.png)
 
-Exemples de 2 niveaux parmi les 94
+**Exemples de 2 niveaux parmi les 94**
 ![Exemple Niveau 1](assets/lvl1.png)
 
 ![Exemple Niveau 2](assets/lvl2.png)
